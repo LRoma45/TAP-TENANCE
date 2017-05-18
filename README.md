@@ -12,6 +12,7 @@ La parte di Albana Mocka è presente in Bana98 e contiene:
 2 Documento descrizione file packet Tracer;
 3 Protocollo Provider-Consumer;
 4 Login (in Android);
+5 Web Service Login;
 
 La parte di Caputi Valeria è presente in ValeVale98 e contiene:
 1 Identificazione competenze necessarie già possedute e da acquisire;
@@ -19,7 +20,6 @@ La parte di Caputi Valeria è presente in ValeVale98 e contiene:
 3 Revisione Diagramma ER;
 4 Web Service Modifica;
 5 Web Service Visualizza;
-6 Web Service Login;
-7 Web Service Registrati;
-8 Database relativi (Login/Registrati e Modifica);
+6 Web Service Registrati;
+7 Database relativi (Login/Registrati e Modifica);
 
